@@ -1,0 +1,17 @@
+{
+  "name": "prueba-tecnica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "nixón camelo",
+  "license": "MIT",
+  "description": "desarrollo de prueba tecnica ",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "save": "^2.9.0"
+  }
+}
