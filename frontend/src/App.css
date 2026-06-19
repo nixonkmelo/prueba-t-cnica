@@ -1,0 +1,32 @@
+.estado-badge{
+  color: white;
+  padding: 4px 10px;
+  border-radius: 8px;
+  font-size: 17px;
+}
+
+.estado-movimiento{
+  background-color: #32d44dee;
+}
+
+.estado-detenido{
+  background-color: #eab308;
+}
+
+.estado-sinseñal{
+  background-color: #e02323ee;
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,td{
+  text-align: left;
+}
+
+.mapa-contenedor{
+  height: 1200px;
+  width: 100%;
+}
